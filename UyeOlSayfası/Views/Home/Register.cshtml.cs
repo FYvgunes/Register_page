@@ -8,5 +8,7 @@ namespace UyeOlSayfası.Views.Home
         {
             
         }
+
+        public object Name { get; set; }
     }
 }
